@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ceff79d86cee01d44aa6ce34dbc73e00
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Apple Days
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c120c63f0c1f6a4cbb4ae71e04ada57, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
